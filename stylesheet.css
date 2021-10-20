@@ -5,3 +5,12 @@ h2{
     padding-right: 30px;
     padding-bottom: 50px;
 }
+#p1{
+    border-style: double;
+}
+#p2{
+    border-style: inset;
+}
+#p3{ 
+    border-style: dotted dashed solid double;
+}
